@@ -1,0 +1,13 @@
+{
+  "match_threshold": 0.45,
+  "uncertain_threshold": 0.35,
+  "liveness_threshold": 0.65,
+  "recognition_cooldown_ms": 5000,
+  "result_display_duration_ms": 4000,
+  "spoof_alert_duration_ms": 3000,
+  "sync_interval_minutes": 15,
+  "attendance_upload_interval_minutes": 5,
+  "max_pending_upload_batch": 100,
+  "camera_facing": "front",
+  "language": "en"
+}

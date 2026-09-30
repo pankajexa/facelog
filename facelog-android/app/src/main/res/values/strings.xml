@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FaceLog</string>
+    <string name="welcome_message">Welcome, %1$s</string>
+    <string name="check_in">CHECK IN</string>
+    <string name="check_out">CHECK OUT</string>
+    <string name="face_not_recognized">Face not recognized</string>
+    <string name="spoof_detected">Spoof Detected</string>
+    <string name="position_face">Position your face within the frame</string>
+    <string name="contact_admin">Please contact your administrator</string>
+    <string name="try_again">Please try again or use manual check-in</string>
+    <string name="present_real_face">Please present your real face to the camera</string>
+    <string name="employees_loaded">%1$d employees loaded</string>
+    <string name="pending_sync">%1$d pending</string>
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+    <string name="no_recent_records">No recent attendance records</string>
+    <string name="device_setup">Device Setup</string>
+    <string name="registration_code">Registration Code</string>
+    <string name="register_device">Register Device</string>
+    <string name="settings">Settings</string>
+    <string name="attendance_history">Attendance History</string>
+    <string name="sync_now">Sync Now</string>
+    <string name="camera_permission_required">Camera permission is required for face recognition</string>
+</resources>
